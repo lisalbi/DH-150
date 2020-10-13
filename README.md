@@ -1,6 +1,6 @@
 ### Heuristic Evaluation
 
-Lisa Bi
+Lisa Bi 	<br>
 Digital Humanities 150
 
 Depop:
