@@ -3,6 +3,8 @@
 Lisa Bi 	<br>
 Digital Humanities 150
 
+For my project, I will be designing a online resale marketplace with an emphasis on peer-to-peer interaction. The audience in mind will be middle-aged women. For my heuristic evaluation, I will be evaluating Depop and OfferUp, two popular online resale marketplaces with strong user interaction, but very different approaches toward user experience design.
+
 ## Depop:<br>
 https://www.depop.com/	
 Depop is a peer-to-peer resale marketplace which incorporates aspects of social media such as Instagram. The simple but striking interface makes it very easy to shop for items, as well as list your own items. The site is very popular among Gen Z and Millenial women. Although the target audience is not middle age women, I have decided to evaluate to evaluate this platform because of it's large cultural reach and it's success in tapping into new trends among consumers such as a preference for sustainable fashion over fast fashion. My overall evaluation is that Depop is well designed with a modern and user friendly interface.<br>
