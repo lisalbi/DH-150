@@ -1,4 +1,4 @@
-### Heuristic Evaluation
+### Heuristic Evaluation for SellIt
 
 Lisa Bi 	<br>
 Digital Humanities 150
