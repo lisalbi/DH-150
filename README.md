@@ -6,14 +6,14 @@ Digital Humanities 150
 For my project, I will be designing an online resale marketplace with an emphasis on peer-to-peer interaction. The audience in mind will be middle-aged women. For my heuristic evaluation, I will be evaluating Depop and OfferUp, two popular online resale marketplaces with strong user interaction, but very different approaches toward user experience design.
 
 ## Depop:<br>
-https://www.depop.com/	
+https://www.depop.com/<br>
 Depop is a peer-to-peer resale marketplace which incorporates aspects of social media. It carries strong inspiration from instagram. The simple but unique interface makes it very easy to shop for items, as well as list your own items. The site is very popular among Gen Z and Millenial women. Although the target audience different from my own project, I have decided to evaluate to evaluate this platform because of it's large cultural reach and it's success in tapping into new trends among consumers such as a preference for sustainable fashion over fast fashion. My overall evaluation is that Depop is well designed with a modern and user friendly interface.<br>
 <img src="./depop1.PNG" width = "25%">
 <img src="./depop3.PNG" width = "25%">
 <img src="./depop5.jpg" width = "25%">
 
 ## OfferUp:<br>
-https://offerup.com/ 
+https://offerup.com/<br>
 OfferUp is a an online market place with an emphasis on in-person transactions. It is comparable to Craigslist and Facebook Marketplace, but it differentiates itself by being mobile-friendly with a user rating system. On each item, customers have the option to ask the seller about the item and/or make an offer for the item. Sellers have the option of offering pickup, shipping, or both. It differentiates itself from other app-based marketplaces by its focus on in-person transactions, whereas most other marketplaces (Ebay, Poshmark, Mercari, etc.) only offer shipping. My overall evaluation is that while the app is definitely usable, there are certain usability issues that make the app feel unfinished and outdated. <br>
 <img src="./offerup1.PNG" width = "25%">
 <img src="./offerup2.PNG" width = "25%">
