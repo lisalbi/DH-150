@@ -1,4 +1,5 @@
 ### Heuristic Evaluation
+
 Lisa Bi
 Digital Humanities 150
 
@@ -22,14 +23,19 @@ Consistency and standards
 -Both Depop and OfferUp seem to have fairly loose standards in regards to what information that sellers are required to include with their listings. On both platforms, the process for listing items are extremely simple, and would probably only take a couple of minutes. The listing process on OfferUp is especially simple, where all you have to do is take a picture, write an (optional) description, and set a price. From a seller stand point, this is very appealing because it simplifies the listing process, which can be a barrier when it's overly complicated. At the same time, there is a lack of standards for product descriptions and product information provided, which can be a negative for customers. Other platforms such as Ebay, Etsy, and Poshmark require the seller to provide more information (size and color for clothes, SKU number, product condition, etc.) which creates standardization across the platform, but can also act as a barrier because of how long it takes to list items. 
 
 Error Prevention
+-In Depop, when listing an item, you can choose from a list of brands. This is convenient because it's often easy to get the spelling wrong, which could potentially hurt the reach of your item.
 -OfferUp is similar to Craigslist and Facebook Marketplace in that sellers often forget or do not take down listings of items that are sold. Therefore, some of the items listed are not actually available. 
 
 Recognition rather than recall
+-In both interfaces, when you click the search bar, you see a list of previous searches. This is useful because people often will search the same thing more than once. When creating listings, both interfaces also suggest pre-existing categories, which is useful. 
 
 Aesthetic and minimal design
 -Depop's design is very simple, but also quite distinct. The listings are displayed very minimalistically - when viewing the 'Explore' or 'Search' tab, the items do not show titles or prices. It is reminiscint of an Instagram or Pinterest feed, where images are displayed in a grid. I am very curious about the decision to not display prices unless you click the item. Although this makes the interface very minimalistic and pleasant to view, from a customer perspective, it's frustrating to have to click the products to see the price. Since this is a resale marketplace, most users care a lot about affordability. My decision to buy something pretty much always heavily depends on the price, so from a user perspective, this is a negative. From a designers point of view, I would guess that the decision to not show prices may have something to do with a foot-in-the-door technique to get users to take interest in items rather than immediately brush them off due to price. It also makes the app more strongly resemble a social media app than a marketplace app, which distinguishes Depop from other marketplace apps.
 -OfferUp has a very similar structure to Depop, with 5 tabs at the bottom of the screen and 3 tabs at the top. Like Depop, OfferUp displays an image grid, without product titles or prices (you must click the product to see this information). At the same time, the design feels more clunky, more generic, and less minimal. Whereas Depop displays all images at the same size and ratio, product images in OfferUp are all different image ratios, which makes the interface appear messier and more cluttered. The 'My Account' page is especially cluttered, and could be significantly simplified.
 
 Help users recognize, diagnose, and recover from errors
+-In Depop, there is no way to exit the 'Find my Style' button if you accidentally click it. Also, when I attempted to login with my Apple ID, I wasn't able to login because I already had an account with that email. It prompted me to login by manually inputting my information. This was very frustrating because I was trying to login in the first place, not create a new account. Logically, the error message does not make sense. Eventually I was locked out after only a few attempts, which frustrated me.
+-In OfferUp, error messages do not offer any useful information. When I first attempted to make an account, I got an error message reading, "Oops! Please check your information and try again" followed by an error code. This does not give me any information to help recognize, diagnose, and fix the error. From a user perspective, it could be from any number of possible errors (email already has an account, password is too simple, system is down, etc.). From a usability perspective, this is poor design.
 
 Help and documentation
+-Both Depop and OfferUp include FAQs with their platform. OfferUp's FAQ is more extensive, but the organization is poor and there is arguably too much information. Moreover, OfferUp's FAQ page is not actually part of the app. Rather, clicking the FAQ leads you to a webpage outside of the app. Notable, neither provides live support, such as through a live chat or phone number.
