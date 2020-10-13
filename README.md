@@ -3,17 +3,22 @@
 Lisa Bi 	<br>
 Digital Humanities 150
 
-Depop:	<br>
-https://www.depop.com/	<br>
+## Depop:<br>
+https://www.depop.com/	
 Depop is a peer-to-peer resale marketplace which incorporates aspects of social media such as Instagram. The simple but striking interface makes it very easy to shop for items, as well as list your own items. The site is very popular among Gen Z and Millenial women. Although the target audience is not middle age women, I have decided to evaluate to evaluate this platform because of it's large cultural reach and it's success in tapping into new trends among consumers such as a preference for sustainable fashion over fast fashion. My overall evaluation is that Depop is well designed with a modern and user friendly interface. 
-![Homepage](depop1.png)
+<img src="./depop1.PNG" width = "25%">
+<img src="./depop3.PNG" width = "25%">
+<img src="./depop5.jpg" width = "25%">
 
-OfferUp:  <br>
-https://offerup.com/ <br>
-OfferUp is a an online market place with an emphasis on in-person transactions. It is comparable to Craigslist and Facebook Marketplace, but it differentiates itself by being mobile-friendly with a user rating system. One each item, customers have the option to ask the seller about the item and/or make an offer for the item. Sellers have the option of offering pickup, shipping, or both. It differentiates itself from other app-based marketplaces by its focus on in-person transactions, whereas most other marketplaces (Ebay, Poshmark, Mercari, etc.) only offer shipping. My overall evaluation is that while the app is usable, there are certain usability issues that make the app feel unfinished and outdated. 
+## OfferUp:<br>
+https://offerup.com/ 
+OfferUp is a an online market place with an emphasis on in-person transactions. It is comparable to Craigslist and Facebook Marketplace, but it differentiates itself by being mobile-friendly with a user rating system. One each item, customers have the option to ask the seller about the item and/or make an offer for the item. Sellers have the option of offering pickup, shipping, or both. It differentiates itself from other app-based marketplaces by its focus on in-person transactions, whereas most other marketplaces (Ebay, Poshmark, Mercari, etc.) only offer shipping. My overall evaluation is that while the app is usable, there are certain usability issues that make the app feel unfinished and outdated. <br>
+<img src="./offerup1.PNG" width = "25%">
+<img src="./offerup2.PNG" width = "25%">
 
 ### Visibility of System Status:
 - In Depop, something that obscured the system status for me was the "buy" button. In most marketplaces, the purchase button reads "Add to cart" or "Add to basket." The "buy" button confused me because I wasn't sure if it was a one-touch purchase (such as the "Buy now" button on Amazon") where they purchase would be processed immediately or if it would simply add the product to my basket. This was confusing to me as a first-time user. After testing it, I realized that the buy button simply adds the product to my basket. (Severity = 1)
+- OfferUp has good system visibility. On the main page, I like that it's easy to tell whether you are looking at items available for pickup and items available for shipment. Moreover, you can tell which location you are set to, and switch it with one click. 
 
 ### Match between system and real world:
 - In Depop, the 'My DNA' tab, where users can view their saved items and their 'style edit'(a listing of items that are similar to recently viewed items), was the only feature that seemed unfamiliar. (Severity = 1)
