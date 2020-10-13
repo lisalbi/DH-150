@@ -1,9 +1,9 @@
-### Heuristic Evaluation for SellIt
+### Heuristic Evaluation
 
 Lisa Bi 	<br>
 Digital Humanities 150
 
-For my project, I will be designing an online resale marketplace with an emphasis on peer-to-peer interaction. The audience in mind will be middle-aged women. For my heuristic evaluation, I will be evaluating Depop and OfferUp, two popular online resale marketplaces with strong user interaction, but very different approaches toward user experience design.
+For my project, I will be designing an online resale marketplace with an emphasis on peer-to-peer interaction. The tentative title is "Tradepost." The audience in mind will be middle-aged women. For my heuristic evaluation, I will be evaluating Depop and OfferUp, two popular online resale marketplaces with strong user interaction, but very different approaches toward user experience design.
 
 ## Depop:<br>
 https://www.depop.com/<br>
