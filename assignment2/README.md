@@ -24,6 +24,14 @@ The survey is [here](https://docs.google.com/forms/d/e/1FAIpQLSeKQStJUG7dcsW8mrH
 
 The pilot usability test is [here](https://www.youtube.com/watch?v=LS9NiRKeGVs&ab_channel=LisaBi).
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=LS9NiRKeGVs&ab_channel=LisaBi" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line →>
+
+
+
 ## Reflection
 
 Overall, the pilot usability test gave me valuable insight into both the app itself the usability testing process. The usability test confirmed and also revealed several issues. It confirmed some of the things that I had suspected would cause issues, such as the disruptive ads and the difficulty in unlisting items. It also revealed several other issues, such as the lack of system status while searching as far as shipping vs. pickup method, and the fact that notifications persist in the inbox even after they're resolved, which can create confusion. As far as the testing process itself, there were points at which the participant got frustrated and would ask me what to do and whether she was doing the right thing, which I wasn't always sure how to answer since I didn't want to bias her. In addition, there were points at which she wanted to skip tasks that she couldn't figure out, but I encouraged her to keep trying a bit more. In the future, I would like to create a more casual and conversational atmosphere, which would put less pressure on the participant. I would also take more time to prepare the script, so that I can explain the process to the participant well.
