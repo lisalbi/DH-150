@@ -4,7 +4,10 @@ OfferUp is a online resale market that was created as a competitor to Craigslist
 
 A usability test is intended to determine the extent an interface facilitates a user’s ability to complete routine tasks. Typically the test is conducted with a group of potential users either in a usability lab, remotely (using e-meeting software and telephone connection), or on-site with portable equipment. Users are asked to complete a series of routine tasks. Sessions are recorded and analyzed to identify potential areas for improvement to the web site. 
 
-Prior to the usability test, I conducted a heuristic evaluation that revealed several usability issues with the app. First of all, the ads are difficult to differentiate from actual listings. If you click them, they open a new window outside the app. This is can be disruptive and frustrating for users, especially if they click them by accident. Moreover, error messages do not provide enough information for users to identify and solve problems. Instead, they only provide an error number. In addition, there's no method for deleting listings, only archiving listings. 
+Prior to the usability test, I conducted a heuristic evaluation that revealed several usability issues with the app:
+* The ads are difficult to differentiate from actual listings. If you click them, they open a new window outside the app. This is can be disruptive and frustrating for users, especially if they click them by accident. 
+* Error messages do not provide enough information for users to identify and solve problems. Instead, they only provide an error number.
+* There's no method for deleting listings, only archiving listings. 
 
 Based on these initial findings, I hoped to find out how these aspects effect the usability of the app by conducting pilot usability testing. In addition, I also hoped to test the overall effectiveness, efficiency, and satisfaction that the app does or does not provide. I also wanted to uncover any issues that I may have missed in my heuristic evaluation. The overall purpose of the pilot usability testing was to test the setting and materials and discover ways to improve the app.
 
