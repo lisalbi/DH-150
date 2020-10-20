@@ -24,13 +24,6 @@ The survey is [here](https://docs.google.com/forms/d/e/1FAIpQLSeKQStJUG7dcsW8mrH
 
 The pilot usability test is [here](https://www.youtube.com/watch?v=LS9NiRKeGVs&ab_channel=LisaBi).
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=LS9NiRKeGVs&ab_channel=LisaBi" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line →>
-
-
 
 ## Reflection
 
