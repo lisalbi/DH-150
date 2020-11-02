@@ -22,6 +22,15 @@ Users who are looking to buy items can do this anywhere, provided they have a sm
 ### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 To buy an item, the user would search and browse the marketplace, likely comparing different items until they settle on the one they like the best, with a price that they're satisfied with and a trustworthy seller. To sell an item, users would take pictures of the item, then list it on the marketplace, providing a description with details about the item.
 
+# Step03: Pick research methods
+I decided to use two methods: interview and participatory observation. 
+For the participatory observation, I observed two activities:
+* Searching an selecting an item: I asked the participant to search for an item they often buy, and speak through their process of how they would select one to buy.
+* Listing an item: I asked the participant to list an item they often sell, and speak through their process of writing the title and description, and their thought process for picking a price.
+These activities were conducted in the participant's home, in order to have the most comfortable and natural environment. This is the context where they would normally use a resale marketplace. The interview was recorded using a macbook pro, and the activities were conducted on Depop using an iPhone, which was screenrecorded. Depop was selected because it was the platform the user was most familiar with. 
+
+# Step 04: Observation/Interview Guide
+* The interview script is [here](https://docs.google.com/document/d/1KdYosJTlpLKgBhn5ogF8YXdJeW3fitUi30M4bRKL8NI/edit).
 
 
 
