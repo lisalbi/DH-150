@@ -1,6 +1,6 @@
 # Step 01: Specify the main design challenge
 
-### What is the main activity your project would support the users’ needs?
+#### What is the main activity your project would support the users’ needs?
 The main activity my project supports is allowing users to buy second-hand items, and sell their own items. 
 
 ### What is the basic need involved for that activity?
@@ -12,7 +12,7 @@ The most popular solution used currently are online marketplaces, such as Facebo
 ### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
 A certain limitation is that users are often suspicious of buying or selling from unverified strangers. These online marketplaces sometimes lack any system for user reviews. Users are unsure of whether they can trust other users, for fear of scams or low-quality items. This can make them less likely to utilize the platform. This is especially the case because most sellers do not allow returns.
 
-# Step02: Target users 
+# Step 02: Target users 
 ### What are the characteristics of users? (ex. demographics, preference, expertise) 
 Demographics: Adults of lower to middle income, college students, working class & middle class.
 Preference: People want to acquire things for lower prices, and want to sell the belongings that they don't need.
@@ -22,7 +22,7 @@ Users who are looking to buy items can do this anywhere, provided they have a sm
 ### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 To buy an item, the user would search and browse the marketplace, likely comparing different items until they settle on the one they like the best, with a price that they're satisfied with and a trustworthy seller. To sell an item, users would take pictures of the item, then list it on the marketplace, providing a description with details about the item.
 
-# Step03: Pick research methods
+# Step 03: Pick research methods
 I decided to use two methods: interview and participatory observation. 
 For the participatory observation, I observed two activities:
 * Searching an selecting an item: I asked the participant to search for an item they often buy, and speak through their process of how they would select one to buy.
