@@ -34,21 +34,21 @@ These activities were conducted in the participant's home, in order to have the 
 
 ### Interesting quotes and insights from the interview:
 #### :one: Trustworthiness matters. User profiles and reviews add to trustworthiness.
-> *Interviewer: When you find an item that you like, how important is the user’s profile/prior reviews to you? Do they play a part in your decision making?
-> Participant: It matters a little bit. This person doesn’t have any reviews and not a lot of followers.
-> Interviewer: If the seller did not have any reviews, would you be discouraged from purchasing from them?
-> Participant: Yeah, especially if they’re charging a lot.*
+> *Interviewer: When you find an item that you like, how important is the user’s profile/prior reviews to you? Do they play a part in your decision making? <br/>
+> Participant: It matters a little bit. This person doesn’t have any reviews and not a lot of followers. <br/>
+> Interviewer: If the seller did not have any reviews, would you be discouraged from purchasing from them? <br/>
+> Participant: Yeah, especially if they’re charging a lot.* <br/>
   
 The user also felt more trusting of Facebook Marketplace over Craigslist because Facebook allows you to look at the seller's profile, while Craigslist is completely anonymous.
 
 #### :two: Feedback and interaction makes makes the platform more appealing. Lack of interaction can be discouraging.
-> *I’d probably trust Facebook over Craigslist because I’ve had more luck selling my stuff on Facebook...Response time is usually faster too.*
+> *I’d probably trust Facebook over Craigslist because I’ve had more luck selling my stuff on Facebook...Response time is usually faster too.* <br/>
 
-> *How do you feel when you [list an item]?
-> I get excited about it, especially seeing people heart it.*
+> *How do you feel when you [list an item]? <br/>
+> I get excited about it, especially seeing people heart it.* <br/>
 
->When someone has an item they don’t want, what do you think is the biggest barrier that stops people from selling their items?
->*They don’t want to put the clothes on, take the pictures, because the chances of you selling is pretty low. The ratio of sellers to buyers is high, there’s so many sellers and not a lot of buyers. If I wanted to get rid of something asap, I’d just donate it.*
+>When someone has an item they don’t want, what do you think is the biggest barrier that stops people from selling their items? <br/>
+>*They don’t want to put the clothes on, take the pictures, because the chances of you selling is pretty low. The ratio of sellers to buyers is high, there’s so many sellers and not a lot of buyers. If I wanted to get rid of something asap, I’d just donate it.* <br/>
 
 
 
