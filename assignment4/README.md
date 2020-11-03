@@ -32,5 +32,14 @@ These activities were conducted in the participant's home, in order to have the 
 ## Step 04: Observation/Interview Guide
 * The interview script is [here](https://docs.google.com/document/d/1KdYosJTlpLKgBhn5ogF8YXdJeW3fitUi30M4bRKL8NI/edit).
 
+### Interesting quotes and insights from the interview
+#### Trustworthiness of the seller
+> Interviewer: When you find an item that you like, how important is the user’s profile/prior reviews to you? Do they play a part in your decision making?
+  Participant: It matters a little bit. This person doesn’t have any reviews and not a lot of followers.
+  Interviewer: If the seller did not have any reviews, would you be discouraged from purchasing from them?
+  Participant: Yeah, especially if they’re charging a lot.
+
+
+
 
 
