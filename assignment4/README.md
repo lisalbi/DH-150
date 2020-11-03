@@ -50,12 +50,14 @@ The user also felt more trusting of Facebook Marketplace over Craigslist because
 > *Interviewer: When someone has an item they don’t want, what do you think is the biggest barrier that stops people from selling their items? <br/>
 > Participant: They don’t want to put the clothes on, take the pictures, because the chances of you selling is pretty low. The ratio of sellers to buyers is high, there’s so many sellers and not a lot of buyers. If I wanted to get rid of something asap, I’d just donate it.* <br/>
 
-#### Lack of refund ability creates hesitancy, especially since used items can have defects. Sellers are not always honest about defects.
+#### :three: Lack of refund ability creates hesitancy, especially since used items can have defects. Sellers are not always honest about defects.
 > *Interviewer: What is your favorite aspect of buying items online, and what is your least favorite? <br/>
 > Participant: I don’t have to sift through things, I can look through pictures. But, sometimes I can’t tell the dimensions from the picture, or something is wrong with the product that isn’t shown, which is problematic because there’s no return policy.* <br/>
 
 
+## Reflection
 
+Overall, this activity was a valuable learning experience for understanding how and why users interact with resale marketplaces, as well as their goals and motivations for taking part in these communities. The interview confirmed to me that fascilitating trustworthiness between buyers and sellers is important, and that reputation systems can help assure users of sellers' trustworthiness. This is especially relevant because most resale markets do not allow refunds, so buyers must have confidence in sellers. An aspect that I hadn't thought of before is that feedback and interaction can encourage sellers to stay on the platform. Even if no one buys the item, likes and interaction are satisfying and allow the seller to guage customer's interest. Platforms that do not have likes or other methods of interaction may be less beneficial, since sellers may become discouraged. Through this process, I gained valuable insight into the process of user observation understanding their context of use. I found it more casual than the pilot usability test, and I felt that the user felt less pressure about taking the "correct" action. I also got to ask more questions about their preferences and opinions. In the future, I'd like to come up with more questions to specifically understand the retention of users, since resale marketplaces often have low retention rates, especially of sellers. 
 
 
 
