@@ -31,6 +31,9 @@ These activities were conducted in the participant's home, in order to have the 
 
 ## Step 04: Observation/Interview Guide
 * The interview script is [here](https://docs.google.com/document/d/1KdYosJTlpLKgBhn5ogF8YXdJeW3fitUi30M4bRKL8NI/edit).
+* The interview transcript is [here](https://docs.google.com/document/d/10629rCMn19HYqOaAJB0I3nl8GB5gMIRthN6sO_LOhfg/edit).
+* The video of the interview is [here](https://www.youtube.com/watch?v=fFBaiL_8p4M&feature=youtu.be).
+
 
 ### Interesting quotes and insights from the interview:
 #### :one: Trustworthiness matters. User profiles and reviews add to trustworthiness.
