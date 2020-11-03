@@ -44,11 +44,19 @@ The user also felt more trusting of Facebook Marketplace over Craigslist because
 #### :two: Feedback and interaction makes makes the platform more appealing. Lack of interaction can be discouraging.
 > *I’d probably trust Facebook over Craigslist because I’ve had more luck selling my stuff on Facebook...Response time is usually faster too.* <br/>
 
-> *How do you feel when you [list an item]? <br/>
-> I get excited about it, especially seeing people heart it.* <br/>
+> *Interviewer: How do you feel when you [list an item]? <br/>
+> Participant: I get excited about it, especially seeing people heart it.* <br/>
 
->When someone has an item they don’t want, what do you think is the biggest barrier that stops people from selling their items? <br/>
->*They don’t want to put the clothes on, take the pictures, because the chances of you selling is pretty low. The ratio of sellers to buyers is high, there’s so many sellers and not a lot of buyers. If I wanted to get rid of something asap, I’d just donate it.* <br/>
+> *Interviewer: When someone has an item they don’t want, what do you think is the biggest barrier that stops people from selling their items? <br/>
+> Participant: They don’t want to put the clothes on, take the pictures, because the chances of you selling is pretty low. The ratio of sellers to buyers is high, there’s so many sellers and not a lot of buyers. If I wanted to get rid of something asap, I’d just donate it.* <br/>
+
+#### Lack of refund ability creates hesitancy, especially since used items can have defects. Sellers are not always honest about defects.
+> *Interviewer: What is your favorite aspect of buying items online, and what is your least favorite? <br/>
+> Participant: I don’t have to sift through things, I can look through pictures. But, sometimes I can’t tell the dimensions from the picture, or something is wrong with the product that isn’t shown, which is problematic because there’s no return policy.* <br/>
+
+
+
+
 
 
 
