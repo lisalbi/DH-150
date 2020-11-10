@@ -11,9 +11,13 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 
 ### Personas & Empathy Maps
 
+#### Persona 1: Erin McCook, College Student
+
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png)
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png)
+
+#### Persona 2: June Chen, Working Mother
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junepersona.png)
 
