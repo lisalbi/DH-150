@@ -2,7 +2,7 @@
 
 ### Purpose of UX Storytelling
 
-The purpose of UX Storytelling is to help designers understand and empathize with the users of their products. UX Storytelling involves taking user data and repackaging it in a way that makes it clear and memorable, allowing UX designers to more effectively communicate insights from research and see things from users' perspective. It can be difficult to understand insights from raw data or bullet points — UX Storytelling instead communicates this information in a way that is memorable, easier to understand, and more likely to resonate, because storytelling is a powerful tool for communication.
+The purpose of UX Storytelling is to help designers understand and empathize with the users of their products. UX Storytelling involves taking user data and repackaging it in a way that makes it clear and memorable, allowing UX designers to more effectively communicate insights from research and see things from users' perspective. It can be difficult to understand insights from raw data or bullet points — UX Storytelling instead communicates this information in a way that is memorable, easier to understand, and more likely to resonate, because storytelling is a powerful tool for communication. In this activity, I will be using UX storytelling as a way to understand how users use online resale markets.
 
 ### Design Features
 1) Filters - Allow users to filter by type, color, condition, price, and location.
