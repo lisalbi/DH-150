@@ -1,32 +1,32 @@
-## DH 150 Assignment 05: Persona + Scenario for an Online Resale Market
+# DH 150 Assignment 05: Personas + Scenarios for an Online Resale Market
 
-### Purpose of UX Storytelling
+## Purpose of UX Storytelling
 
 The purpose of UX Storytelling is to help designers understand and empathize with the users of their products. UX Storytelling involves taking user data and repackaging it in a way that makes it clear and memorable, allowing UX designers to more effectively communicate insights from research and see things from users' perspective. It can be difficult to understand insights from raw data or bullet points — UX Storytelling instead communicates this information in a way that is memorable, easier to understand, and more likely to resonate, because storytelling is a powerful tool for communication. In this activity, I will be using UX storytelling as a way to understand how users use online resale markets.
 
-### Design Features
+## Design Features
 1) Filters - Allow users to filter by type, color, condition, price, and location.
 2) Simple listing process that has pre-set categories and allows you to copy prior listings - This makes listing easier and more convenient.
 3) User profiles and reviews - This creates greater trustworthiness and less anonymity, which erodes trustworthiness.
 
-### Personas & Empathy Maps
+## Personas & Empathy Maps
 
-#### Persona 1: Erin McCook, College Student
+### Persona 1: Erin McCook, College Student
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png)
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png)
 
-#### Persona 2: June Chen, Working Mother
+### Persona 2: June Chen, Working Mother
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junepersona.png)
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junemap.png)
 
 
-### User Scenarios and Journey Maps
+## User Scenarios and Journey Maps
 
-#### Erin's Scenario
+### Erin's Scenario
 
 * Erin is a undergraduate college student who is studying Economics. At the start of her third year, she decides it's time to move out and into an apartment for the first time. Since she's never lived on her own before, it's an intimidating and stressful process. A month before her move-in date, she decides it's time to start looking for furniture for her new apartment. As a college student, her only source of income is from her part-time minimum wage job, so her budget is very restricted. To save money, she decides she wants to buy her furniture second hand. After seeing an add for an online resale market, she decides to check it out and see if she can find quality, affordable furniture there.
 * Visiting the page, she types "couch" in the search bar. At first, she is overwhelmed with all the information. There are couches of all forms, colors, and materials. Moreover, some couches are clearly more worn out than others. And since she's new to the website, she's not entirely sure how trustworthy it is. With her low budget and price of furniture, she's apprehensive about buying furniture from a stranger on a website. Used furniture could be poor quality, or it could even have bed bugs. Moreover, the internet is strife with scammers. As of now, she's unsure how to feel about what she's seeing. 
@@ -35,7 +35,7 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinjourney.png)
 
-#### June's Scenario
+### June's Scenario
 
 * June is a nurse who works at a local hospital. After getting a promotion, she decides it's time to remodel her house, especially since her two kids are getting older and growing out of their furniture. She orders furniture from a local store, but before the furniture arrives, she wants to get rid of her old furniture. She thinks about giving it away, but she doesn't know anyone who needs kids furniture. She thinks about just throwing it away, but that would be wasteful. Therefore, she decides to try to sell her old furniture. That way, the furniture gets more use, and she can earn some extra cash too. After being recommended it by a friend, she decides to use an online resale market to list her furniture.
 * June decides to make an account to sell the furniture. However, June has many items to sell, and quickly gets overwhelmed with the idea of listing them all. As a working mom, she doesn't have a ton of time to list a bunch of items that aren't even guaranteed to sell. Moreover, she's not exactly tech savvy, so using a new platform can be intimidating and slow. 
