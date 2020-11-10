@@ -11,6 +11,8 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 
 ### Personas & Empathy Maps
 
+<img src="./offerup1.PNG" width = "25%">
+
 ### User Scenarios and Journey Maps
 
 #### Erin's Scenario
