@@ -14,6 +14,7 @@ Based on the findings, I have identified several prime features that would addre
 2) Simple listing process that has pre-set categories and allows you to copy prior listings - This makes listing easier and more convenient.
 3) User profiles and reviews - This creates greater trustworthiness and less anonymity, which erodes trustworthiness.
 
+* The purpose of this low-fidelity prototype is to begin the implementation of these features and assess the overall usability and functionality of my initial design of the app.
 ## Wireframes & Wireflow
 
 ## Testing the Prototype
