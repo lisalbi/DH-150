@@ -29,7 +29,7 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 * Images from the prototype testing procedure:[Link 01](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot1.PNG) and [Link 02](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot2.PNG)
 * Video from the prototype testing procedure: [Link 01](https://www.youtube.com/watch?v=sFqYNOLI-0s&ab_channel=LisaBi)
 
-### Testing Summary
+#### Testing Summary
 The prototype testing procedure was conducted remotely over Zoom. Prior to the meeting, I sent the participant an image of all the wireframes, asking them not to look at them before the meeting. During the testing, I asked the participant to complete 4 tasks:
 
 1) Search for an item and filter the search results.
