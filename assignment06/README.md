@@ -15,6 +15,10 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 
 * The purpose of this low-fidelity prototype is to begin the implementation of these features and assess the overall usability and functionality of my initial design of the app. Through this process I hope to gain greater insight into how the design can be improved and how these features can be implemented.
 ## Wireframes & Wireflow
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow1.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow2.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow3.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow4.png)
 
 ## Testing the Prototype
 
