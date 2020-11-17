@@ -1,5 +1,6 @@
 # Assignment 06: Low-Fidelity Prototype
 Lisa Bi
+
 DH 150
 ## Project Description
 The current project seeks to provide a user-to-user resale app for furniture. Resale markets currently available tend to focus on clothes or allow all products. The goal of the current project is to create a specialized market for furniture. With this in mind, the app will be designed with the goals, motivations, needs, and pain points of furniture buyers in mind. 
