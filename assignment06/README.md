@@ -23,7 +23,11 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 ## Testing the Prototype
 
 ### Testing Materials
+#### Testing Materials
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucywireflow.jpg)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucywireflow.jpg)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot1.jpg)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot2.jpg)
 
 ### Testing Summary
 The prototype testing procedure was conducted remotely over Zoom. Prior to the meeting, I sent the participant an image of all the wireframes, asking them not to look at them before the meeting. During the testing, I asked the participant to complete 4 tasks:
