@@ -32,12 +32,9 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 #### Testing Summary
 The prototype testing procedure was conducted remotely over Zoom. Prior to the meeting, I sent the participant an image of all the wireframes, asking them not to look at them before the meeting. During the testing, I asked the participant to complete 4 tasks:
 
-**1) Search for an item and filter the search results.**
-
-**2) View your offers and show how to accept or deny them.**
-
-**3) View the items that you favorited.**
-
+**1) Search for an item and filter the search results.**<br/>
+**2) View your offers and show how to accept or deny them.**<br/>
+**3) View the items that you favorited.**<br/>
 **4) View reviews of a seller.**
 
 The participant was instructed to voice their though process during the procedure. They were also instructed to circle the buttons that they'd press and make any notes if they woud like to. Several times throughout the testing, I asked the participant to describe what they expected to happen once the press a button, prior to viewing the next wireframe. For the most part, the testing went smoothly, and I was able to gain important insight into how the product can be improved. The participant was able to complete all four tasks without much issue. However, the participant also brought up important comments that helped me discover aspects that would benefit from additional revision:
