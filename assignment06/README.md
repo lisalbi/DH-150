@@ -13,7 +13,7 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
   * **Simple listing process that has pre-set categories and allows you to copy prior listings** - This makes listing easier and more convenient.
   * **User profiles and reviews** - This creates greater trustworthiness and less anonymity, which erodes trustworthiness.
 
-* The purpose of this low-fidelity prototype is to begin the implementation of these features and assess the overall usability and functionality of my initial design of the app.
+* The purpose of this low-fidelity prototype is to begin the implementation of these features and assess the overall usability and functionality of my initial design of the app. Through this process I hope to gain greater insight into how the design can be improved and how these features can be implemented.
 ## Wireframes & Wireflow
 
 ## Testing the Prototype
