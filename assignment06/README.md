@@ -9,9 +9,9 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 * Persona & Three Features: Based on the results of the heuristic evaluation and user research, I have designed two personas in order to better explore the goals, motivations, needs, and pain points of users. The first persona is a 21-year-old college student. As a college student with a limited budget, she needs a way to purchase furniture affordably, from a buyer she can trust. Moreover, she wants to save money on the cost of transporting furniture, so she wants to buy local furniture. Threfore, needs a way to filter listings by their location. Her biggest concern is the quality of the furniture. Since refunds are usually not available on resale markets, she is concerned with the condition of the furniture and the trustworthiness of the seller. The second persona is a 40-year-old working mother of two, who is looking to sell some of her family's used furniture. As a working parent who is not especially tech savvy, she needs a platform that provides an easy and quick listing process. Her biggest concern is convenience and ease of use.
 
 * Based on the findings, I have identified several prime features that would address the needs and pain points of users:
-  * *Filters* - Allow users to filter by type, color, condition, price, and location.
-  * *Simple listing process that has pre-set categories and allows you to copy prior listings* - This makes listing easier and more convenient.
-  * *User profiles and reviews* - This creates greater trustworthiness and less anonymity, which erodes trustworthiness.
+  * **Filters** - Allow users to filter by type, color, condition, price, and location.
+  * **Simple listing process that has pre-set categories and allows you to copy prior listings** - This makes listing easier and more convenient.
+  * **User profiles and reviews** - This creates greater trustworthiness and less anonymity, which erodes trustworthiness.
 
 * The purpose of this low-fidelity prototype is to begin the implementation of these features and assess the overall usability and functionality of my initial design of the app.
 ## Wireframes & Wireflow
