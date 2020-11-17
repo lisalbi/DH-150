@@ -24,11 +24,8 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 
 ### Testing Materials
 #### Testing Materials
-* Participant's wireflow markup: 
-  * [Link](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucywireflow.jpg)
-* Images from prototype testing procedure: 
-  * [Link 01](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot1.PNG) 
-  * [Link 02](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot2.PNG)
+* Participant's marked up wireflow from prototype test: [Link](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucywireflow.jpg)
+* Images from prototype testing procedure:[Link 01](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot1.PNG) and [Link 02](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot2.PNG)
 * 
 
 ### Testing Summary
@@ -49,4 +46,6 @@ The participant was instructed to voice their though process during the procedur
 * Include the option of adding photos to reviews. Also, consider adding a feature that allows users to view only the photos of reviews (ala Yelp).
 
 ## Reflection
-Overall, the results from the prototype test were extremely informative. I learned a lot of information on how I can improve my product, as well as design aspects that I should consider revising. I also learned about the process of designing and testing a prototype, such as how to carry out the testing. While for the most part, the participant was able to smoothly complete all four of the tasks, they made many comments and voiced important thoughts on aspects of the app that cause confusion and ambiguity, as well as aspects that could be revised in order to improve the usability and functionality of the app, in order to ensure a smooth and easy user experience.
+Overall, the results from the prototype test were extremely informative. I learned a lot of information on how I can improve my product, as well as design aspects that I should consider revising. I also learned about the process of designing and testing a prototype, such as how to carry out the testing. While for the most part, the participant was able to smoothly complete all four of the tasks, they made many comments and voiced important thoughts on aspects of the app that may cause confusion and ambiguity, as well as aspects that could be revised in order to improve the usability and functionality of the app in order to ensure a smooth and easy user experience. 
+
+In future iterations, I will revise aspects of the app such as the filter button placement, the offering system, the format of the homepage, and the format of the user page. Through testing, I was able to identify these features as potentially problematic for usability, with room for improvement and revision. I had already suspected certain issues would come up as confusing such as the offering system and the filter button placement. The test procedure helped me confirm that these aspects call for more redesigns. Other issues were less expected, such as the lack of cues for viewing categories of items and the problems with horizontal scrolling on the homepage. The test procedure helped me discover these issues so that I can reconsider and revise these aspects. In future prototype testing, I would like to implement a live prototype, which would feel more natural and more similar to the final product than non-clickable prototypes.
