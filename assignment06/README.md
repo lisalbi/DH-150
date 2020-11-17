@@ -26,7 +26,7 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 ### Testing Materials
 #### Testing Materials
 * Participant's marked up wireflow from prototype test: [Link](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucywireflow.jpg)
-* Images from the prototype testing procedure:[Link 01](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot1.PNG) and [Link 02](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot2.PNG)
+* Images from the prototype testing procedure: [Link 01](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot1.PNG) and [Link 02](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/lucyscreenshot2.PNG)
 * Video from the prototype testing procedure: [Link 01](https://www.youtube.com/watch?v=sFqYNOLI-0s&ab_channel=LisaBi)
 
 #### Testing Summary
