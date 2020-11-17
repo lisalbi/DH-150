@@ -18,4 +18,20 @@ The current project seeks to provide a user-to-user resale app for furniture. Re
 
 ## Testing the Prototype
 
+The prototype testing procedure was conducted remotely over Zoom. Prior to the meeting, I sent the participant an image of all the wireframes, asking them not to look at them before the meeting. During the testing, I asked the participant to complete 4 tasks:
+
+1) Search for an item and filter the search results.
+2) View your offers and show how to accept or deny them.
+3) View the items that you favorited.
+4) View reviews of a seller.
+
+The participant was instructed to voice their though process during the procedure. They were also instructed to circle the buttons that they'd press and make any notes if they woud like to. Several times throughout the testing, I asked the participant to describe what they expected to happen once the press a button, prior to viewing the next wireframe. For the most part, the testing went smoothly, and I was able to gain important insight into how the product can be improved. The participant also brought up important comments about design features that may benefit from additional testing and revision:
+* In the current design, the offers and messages are under separate tabs. It may be beneficial to put them under the same page, to improve the flow of communication between users. With the current design, users need to switch between the two tabs, which makes the user process less smooth and more disjoint.
+* On the profile, it may be beneficial to reconsider where to put the 5-stars that denote reviews. Currently, they are located under the 'Reviews' heading. The logic behind this was that I wanted to put the stars where the user is supposed to click to view the reviews. However, this slightly confuses the hierarchy of the design. It may be better to put the stars under the name. However, doing this might also be problematic, since users might click the stars expecting to view the reviews, when they are supposed to click the tabs instead.
+* Consider adding a cue for categories on the homepage? Currently, they are located on the searchpage. Users may not realize that they should click the search page to view categories.
+* Currently, on the homepage, users have to scroll right to view more items in the same category. This may be problematic because they may lose their place. Additionally, scrolling right feels much less natural than scrolling down. Therefore, it may be beneficial to replace it with a solely vertical-scrolling format.
+* The filtering option caused some slight confusion, since there are filtering options on both the top and bottom of the page. Consider putting the filter button at the top of the page with the other options.
+* Consider making the user page more visual. Currently, it looks like a settings menu, rather than a profile. This isn't what the participant expected when she clicked the icon.
+* Include the option of adding photos to reviews. Also, consider adding a feature that allows users to view only the photos of reviews (ala Yelp).
+
 ## Reflection
