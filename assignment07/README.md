@@ -21,4 +21,4 @@ All colors passed the color contrast test:
 Since I chose a relatively limited color palette, I primarily used font weights to differentiate important headings, signalers, and buttons. The primary font I used was Monserrat. I picked this font because it is modern and stylish, while still being easily readable and user friendly. For important titles and headings, I used Monserrat Bold and Monserrat Semibold. For certain important buttons, such as the login, sign up, and make an offfer button, I used Monserrat Semibold Italics. This makes the button more distinct and attention grabbing, and differentiates these buttons from other features. For the text of listing descriptions, profile descriptions, and the body of messages, I used Helvetica Neue. This font is suitable for large bodies of text because it is very readable and very familiar to users, due to it's broad use among apps and websites. 
 
 Examples of text from the interface are shown below:
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/fontsample.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/fontsamples.png)
