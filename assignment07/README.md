@@ -1,6 +1,7 @@
 # Assignment 07: High Fidelity Prototype
 
 Lisa Bi 
+
 DH 150
 
 ## Graphic Design
