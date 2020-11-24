@@ -4,6 +4,14 @@ Lisa Bi
 
 DH 150
 
+## Wireframes
+
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi1.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi2.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi3.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi4.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi5.png)
+
 ## Graphic Design
 When designing the visual aesthetic of the graphic, my goal was to create a clean, organized, and cohesive interface design. To reach this goal, I made sure to implement a minialistic style across the app, without unneccessary embellishments. 
 
