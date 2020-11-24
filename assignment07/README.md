@@ -31,3 +31,14 @@ Since I chose a relatively limited color palette, I primarily used font weights 
 
 Examples of text from the interface are shown below:
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/fontsamples.png)
+
+## Impression Test
+A video of the impression test can be found [here](https://youtu.be/ahjpU1JBLEw).
+
+The impression test was conducted virtually over zoom. The participant was given a link to view the wireframes, and asked about their initial reaction and thoughts. Key findings included:
+* The participant was able to easily identify the purpose of the app as a furniture resale market.
+* The three adjectives they chose to describe the app were upscale, approachable, and clean. (After asking them their reasoning, it seemed like their reason for choosing 'upscale,' was the furniture pictures rather than the actual interface)
+* The participant was able to accurately identify the main feature and services that the app offers, mainly that users can buy and sell used furniture, but they did not name more specific features.
+* The participant described the feel of the interface as professional.
+
+A key takeaway from the impression test that grabbed my attention was that it may come off as upscale looking. I believe that this descriptor were mainly brought up by the participant because of the professional looking photographs used in the prototype. However, if the interface itself is also too upscale, this may make the app less approachable. Since this app is a resale app aimed at lower class and middle class populations, this may make the app feel inaccessible and less appealing. Other than that, the user seemed to have a positive impression of the app, and was able to identify the key features.
