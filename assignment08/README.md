@@ -5,7 +5,7 @@ Lisa Bi
 DH 150
 
 ## Description
-Tradepost is a second hand furniture resale market that aims to provide a quick and easy way for users to buy and sell their furniture. The purpose of this high-fidelity prototype is to implement the visual aspects of the design and study their effect on the user's experience. We will pay special attention to aspects such as color, typography, readibility, and visual heirarchy. This process involves designing a high-fidelity prototype with wireframes, implementing an interactive prototype, and conducting an impression test to assess users' immediate reaction to the design. Based on this feedback, I will assess possible changes that could improve the prototype.
+Tradepost is a second hand furniture resale market that aims to provide a quick and easy way for users to buy and sell their furniture. The purpose of this high-fidelity prototype is to implement the visual aspects of the design and study their effect on the user's experience. We will pay special attention to aspects such as color, typography, readibility, and visual heirarchy. The high fidelity prototype was created using Adobe XD. This process involves designing a high-fidelity prototype with wireframes, implementing an interactive prototype, and conducting an impression test to assess users' immediate reaction to the design. Based on this feedback, I will assess possible changes that could improve the prototype.
 
 ## Wireflow
 
