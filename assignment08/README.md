@@ -10,7 +10,7 @@ Tradepost is a second hand furniture resale market that aims to provide a quick 
 ## Wireflow
 
 Sign In or Log In
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire1.png)
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire1.png | width=100)
 
 Searching & Filtering
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire2.png)
