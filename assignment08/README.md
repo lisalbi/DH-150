@@ -61,6 +61,12 @@ The interactive prototype was created using Adobe XD. Tasks such as searching, f
 
 The cognitive walkthrough was conducted remotely. Users viewed the prototype, and then answered a questionairre about their impression, understanding, and confusions about the app. In this case, the participant was able to identify that the app is used to exchange furniture, based on the splash screen. They were also accurately able to infer that users are able to list items and buy other users' items. The user did not have trouble or confusion when completing the tasks. Based on these results, the high-fidelity prototype has good usability and accurately conveys the purpose and affordances of the app. 
 
-## Results
+The results of the cognitive walkthrough can be viewed [here](https://docs.google.com/document/d/1CczkDfdihYl4FNvXsWe01qWSystnx5YN4cFVX5B1u_o/edit).
+
+## Reflection
+Overall, the process went smoothly. Designing the high-fidelity prototype was an insightful and valuable learning experience. Testing readability through contrast tests was very useful in ensuring that the text is easily readable. The impression test was interesting and gave me important information on how the app is immediately percieved, based on first hand impressions. The cognitive walkthrough gave me information on the usability of the app and helped to identify potential weak points and inconsistencies in the app.
+
+Based on the results of the impression test and cognitive walkthrough, the high fidelity prototype was successful in conveying the purpose and features offered by the application. Based on the feedback, I would like to continue to study and improve the 'feel' of the app. The participant in our impression test described the application as upscale, which I believe may be unappealing to our target users. An upscale impression may make the application feel out of reach and unsuitable for the average user. To examine this, I would like to conduct additional impression tests. In further iterations, I would also like to examine how the message and offering system can be improved. Since this feature is integral to the app, I would like to conduct user testing specific to this feature in order to study the usability of the current design and potential improvements that can be made.
+
 
 
