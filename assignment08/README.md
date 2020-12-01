@@ -11,14 +11,19 @@ Tradepost is a second hand furniture resale market that aims to provide a quick 
 
 Sign In or Log In
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire1.png)
+
 Searching & Filtering
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire2.png)
+
 Accepting Offers
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire3.png)
+
 Listing an Item
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire4.png)
+
 Viewing Reviews
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire5.png)
+
 Viewing Favorites
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire6.png)
 
