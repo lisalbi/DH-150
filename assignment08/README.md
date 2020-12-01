@@ -7,13 +7,21 @@ DH 150
 ## Description
 Tradepost is a second hand furniture resale market that aims to provide a quick and easy way for users to buy and sell their furniture. The purpose of this high-fidelity prototype is to implement the visual aspects of the design and study their effect on the user's experience. We will pay special attention to aspects such as color, typography, readibility, and visual heirarchy. This process involves designing a high-fidelity prototype with wireframes, implementing an interactive prototype, and conducting an impression test to assess users' immediate reaction to the design. Based on this feedback, I will assess possible changes that could improve the prototype.
 
-## Wireframes
+## Wireflow
 
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi1.png)
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi2.png)
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi3.png)
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi4.png)
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifi5.png)
+Sign In or Log In
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire1.png)
+Searching & Filtering
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire2.png)
+Accepting Offers
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire3.png)
+Listing an Item
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire4.png)
+Viewing Reviews
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire5.png)
+Viewing Favorites
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire6.png)
+
 
 ## Graphic Design
 When designing the visual aesthetic of the graphic, my goal was to create a clean, organized, and cohesive interface design. To reach this goal, I made sure to implement a minialistic style across the app, without unneccessary embellishments. 
