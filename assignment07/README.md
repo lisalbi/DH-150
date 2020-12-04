@@ -1,4 +1,4 @@
-# Assignment 07-02: High Fidelity Prototype
+# Assignment 07: High Fidelity Prototype
 
 Lisa Bi 
 
