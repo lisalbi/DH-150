@@ -26,9 +26,32 @@ For the competitor analysis, I analyzed OfferUp, a resale market with an emphasi
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
+In order to better understand the motivation, needs, and behaviors or users, I conducted two user research studies involving interviewing and participatory observation. During the interview, my goal was to gain an understanding on user habits, how users utilize online market places to meet their goals, and what pain points they commonly face. During the participatory observation, I observed a user performing two activities: searching and selecting an item, and listing an item. This purpose of this activity was to understand their process and the logic behind their decision making.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fFBaiL_8p4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Read More](https://lisabi-ux.github.io/DH-150/assignment04/)
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
+The purpose of UX Storytelling is to help designers understand and empathize with the users of their products. UX Storytelling involves taking user data and repackaging it in a way that makes it clear and memorable, allowing UX designers to more effectively communicate insights from research and see things from users' perspective. It can be difficult to understand insights from raw data or bullet points — UX Storytelling instead communicates this information in a way that is memorable, easier to understand, and more likely to resonate, because storytelling is a powerful tool for communication. In this activity, I will be using UX storytelling as a way to understand how users use online resale markets.
+Based on the results of the prior research, I created two personas and empathy maps with the goal of understanding users' goals, needs, motivations, and pain points. 
+
+### Persona 1: Erin McCook, College Student
+
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png)
+
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png)
+
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinjourney.png)
+
+### Persona 2: June Chen, Working Mother
+
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junepersona.png)
+
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junemap.png)
+
+![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junejourney.png)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
@@ -39,7 +62,6 @@ Summary and link to your assignment folder
 <img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow3.png" width="500"/> 
 
 <img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow4.png" width="500"/> 
-
 
 
 ## Low-fidelity prototype (wireflow, assignment06)
