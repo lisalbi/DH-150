@@ -32,9 +32,10 @@ Summary and link to your assignment folder
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
-<img src="/wireflow1.png" width="500"/> <img src="/wireflow2.png" width="500"/> 
-
-<img src="/wireflow3.png" width="500"/> <img src="/wireflow4.png" width="500"/> 
+<img src="/wireflow1.png" width="500"/> 
+<img src="/wireflow2.png" width="500"/> 
+<img src="/wireflow3.png" width="500"/> 
+<img src="/wireflow4.png" width="500"/> 
 
 
 ## Low-fidelity prototype (wireflow, assignment06)
