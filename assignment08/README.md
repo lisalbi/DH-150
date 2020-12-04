@@ -76,14 +76,18 @@ In order to assess the usability of the design, I conducted a virtual usability 
 Summary statement and link to or an embedded prototype
 The purpose of this high-fidelity prototype is to implement the visual aspects of the design and study their effect on the user's experience. I paid special attention to aspects such as color, typography, readibility, and visual heirarchy. The high fidelity prototype was created using Adobe XD. 
 
-Following this, I conducted an impression test and to assess users' immediate reaction to the design. This study was conducted virtually. The participant was given a link to view the wireframes, and asked about their initial reaction and thoughts. They were also asked to choose words to describe the app. In addition, I conducted a cognitive walkthrough to assess the usability of the app with a different participant. The participant was asked to complete a series of tasks, such as searching and filtering, viewing reviews, and accepting offers. 
-
 <iframe width="375" height="812" src="https://xd.adobe.com/embed/fe671d1e-871f-4a37-ba05-65c8395acb69-ab34/" frameborder="0" allowfullscreen></iframe>
 
 [Read More](https://lisabi-ux.github.io/DH-150/assignment07/)
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+Following this, I conducted an impression test and to assess users' immediate reaction to the design. This study was conducted virtually. The participant was given a link to view the wireframes, and asked about their initial reaction and thoughts. They were also asked to choose words to describe the app. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ahjpU1JBLEw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In addition, I conducted a cognitive walkthrough to assess the usability of the app with a different participant. The participant was asked to complete a series of tasks, such as searching and filtering, viewing reviews, and accepting offers. 
 
 ## Pitch video [update the video after recording your presentation]
 
