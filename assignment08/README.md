@@ -40,7 +40,7 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 Based on the results of the prior research, I created two personas and empathy maps with the goal of understanding users' goals, needs, motivations, and pain points. 
 
 ### Persona 1: Erin McCook, College Student
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png" width="800"/> 
+![header](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png)
 <img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png" width="800"/> 
 <img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinjourney.png" width="800"/> 
 
