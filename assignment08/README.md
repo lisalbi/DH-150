@@ -24,6 +24,8 @@ Embed video
 
 For the competitor analysis, I analyzed OfferUp, a resale market with an emphasis on in-person transactions, and Depop, a popular clothing resale market that implements features of social media applications. These two applications are opposite in terms of their execution. OfferUp is very utilitarian and plain, while Depop is bold and trendy. I wanted to study what aspects these applications got right, and what aspects they got wrong. 
 
+[Read More](https://lisabi-ux.github.io/DH-150/assignment01/)
+
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 In order to better understand the motivation, needs, and behaviors or users, I conducted two user research studies involving interviewing and participatory observation. During the interview, my goal was to gain an understanding on user habits, how users utilize online market places to meet their goals, and what pain points they commonly face. During the participatory observation, I observed a user performing two activities: searching and selecting an item, and listing an item. This purpose of this activity was to understand their process and the logic behind their decision making.
@@ -38,20 +40,16 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 Based on the results of the prior research, I created two personas and empathy maps with the goal of understanding users' goals, needs, motivations, and pain points. 
 
 ### Persona 1: Erin McCook, College Student
-
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png)
-
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png)
-
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinjourney.png)
+<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png" width="800"/> 
+<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png" width="800"/> 
+<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinjourney.png" width="800"/> 
 
 ### Persona 2: June Chen, Working Mother
+<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junepersona.png" width="800"/> 
+<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junemap.png" width="800"/> 
+<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junejourney.png" width="800"/> 
 
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junepersona.png)
-
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junemap.png)
-
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junejourney.png)
+[Read More](https://lisabi-ux.github.io/DH-150/assignment05/)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
@@ -66,13 +64,23 @@ Based on the results of the prior research, I created two personas and empathy m
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+In order to assess the usability of the design, I conducted a virtual usability test with the low-fidelity prototype. The participant was asked to complete a series of tasks: 
+* Search for an item and filter the search results.
+* View your offers and show how to accept or deny them.
+* View the items that you favorited.
+* View reviews of a seller.
+
+[Read More](https://lisabi-ux.github.io/DH-150/assignment06/)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
-The purpose of this high-fidelity prototype is to implement the visual aspects of the design and study their effect on the user's experience. I paid special attention to aspects such as color, typography, readibility, and visual heirarchy. The high fidelity prototype was created using Adobe XD. This process involved designing and implementing an interactive prototype, conducting an impression test and to assess users' immediate reaction to the design, and conducting a cognitive walkthrough to assess the usability of the app.
+The purpose of this high-fidelity prototype is to implement the visual aspects of the design and study their effect on the user's experience. I paid special attention to aspects such as color, typography, readibility, and visual heirarchy. The high fidelity prototype was created using Adobe XD. 
+
+Following this, I conducted an impression test and to assess users' immediate reaction to the design. This study was conducted virtually. The participant was given a link to view the wireframes, and asked about their initial reaction and thoughts. They were also asked to choose words to describe the app. In addition, I conducted a cognitive walkthrough to assess the usability of the app with a different participant. The participant was asked to complete a series of tasks, such as searching and filtering, viewing reviews, and accepting offers. 
 
 <iframe width="375" height="812" src="https://xd.adobe.com/embed/fe671d1e-871f-4a37-ba05-65c8395acb69-ab34/" frameborder="0" allowfullscreen></iframe>
 
+[Read More](https://lisabi-ux.github.io/DH-150/assignment07/)
 
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
