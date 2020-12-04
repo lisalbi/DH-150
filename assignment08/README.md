@@ -31,7 +31,9 @@ Summary and link to your assignment folder
 Summary and link to your assignment folder
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
-![npr](../wireflow1.png) ![npr](../wireflow2.png)
+
+<img src="wireflow1.png" width="425"/> <img src="wireflow2.png" width="425"/> 
+![npr](../wireflow1.png) | ![npr](../wireflow2.png)
 
 ![npr](../wireflow3.png) | ![npr](../wireflow4.png)
 <table>
