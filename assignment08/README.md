@@ -43,6 +43,8 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
+The purpose of this high-fidelity prototype is to implement the visual aspects of the design and study their effect on the user's experience. I paid special attention to aspects such as color, typography, readibility, and visual heirarchy. The high fidelity prototype was created using Adobe XD. This process involved designing and implementing an interactive prototype, conducting an impression test and to assess users' immediate reaction to the design, and conducting a cognitive walkthrough to assess the usability of the app.
+<iframe width="375" height="812" src="https://xd.adobe.com/embed/fe671d1e-871f-4a37-ba05-65c8395acb69-ab34/" frameborder="0" allowfullscreen></iframe>
 
 
 ## Optional evaluation and revision history 
