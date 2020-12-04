@@ -31,8 +31,8 @@ Summary and link to your assignment folder
 Summary and link to your assignment folder
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
-
-![npr](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow1.png) | ![npr](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow2.png)
+--- | ---
+![npr](../wireflow1.png) | ![npr](../wireflow2.png)
 ![npr](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow3.png) | ![npr](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow4.png)
 <table>
 </table>
