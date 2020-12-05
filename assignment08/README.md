@@ -40,26 +40,25 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 Based on the results of the prior research, I created two personas and empathy maps with the goal of understanding users' goals, needs, motivations, and pain points. 
 
 ### Persona 1: Erin McCook, College Student
-![header](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png)
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png" width="800"/> 
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinjourney.png" width="800"/> 
+<img src="https://lisabi-ux.github.io/DH-150/erinpersona.png" width = 50%/> <br>
+<img src="https://lisabi-ux.github.io/DH-150/erinmap.png" width=50%/> <br>
+<img src="https://lisabi-ux.github.io/DH-150/erinjourney.png" width=50%/>  <br>
 
 ### Persona 2: June Chen, Working Mother
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junepersona.png" width="800"/> 
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junemap.png" width="800"/> 
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/junejourney.png" width="800"/> 
+<img src="https://lisabi-ux.github.io/DH-150/junepersona.png" width=50%/> <br>
+<img src="https://lisabi-ux.github.io/DH-150/junemap.png" width=50%/> <br>
+<img src="https://lisabi-ux.github.io/DH-150/junejourney.png" width=50%/> <br>
 
 [Read More](https://lisabi-ux.github.io/DH-150/assignment05/)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+<img src="https://lisabi-ux.github.io/DH-150/wireflow1.png" width=50%/> <br>
 
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow1.png" width="500"/> 
+<img src="https://lisabi-ux.github.io/DH-150/wireflow2.png" width=50%/> <br>
 
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow2.png" width="500"/> 
+<img src="https://lisabi-ux.github.io/DH-150/wireflow3.png" width=50%/> <br>
 
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow3.png" width="500"/> 
-
-<img src="https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/wireflow4.png" width="500"/> 
+<img src="https://lisabi-ux.github.io/DH-150/wireflow4.png" width=50%/> <br>
 
 
 ## Low-fidelity prototype (wireflow, assignment06)
