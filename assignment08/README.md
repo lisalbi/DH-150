@@ -91,3 +91,5 @@ In addition, I conducted a cognitive walkthrough to assess the usability of the 
 ## Pitch video [update the video after recording your presentation]
 
 ## conclusion: what you learned throughout the process
+
+Overall, the process of creating Tradepost was a really valuable learning experience in understanding the process of user experience design and gaining first-hand experience in the product design cycle. The most important lesson was understanding the importance of emphathizing and seeing things from the perspective of users, rather than only relying on my own judgement. By getting feedback from users, whether it be from user research, usability testing, impression testing, and more, I was able to discover weaknesses in the product and gain insight on how to improve the overall experience of users.
