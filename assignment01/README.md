@@ -9,8 +9,10 @@ For my project, I will be designing an online resale marketplace with an emphasi
 https://www.depop.com/<br>
 Depop is a peer-to-peer resale marketplace which incorporates aspects of social media. It carries strong inspiration from instagram. The simple but unique interface makes it very easy to shop for items, as well as list your own items. The site is very popular among Gen Z and Millenial women. Although the target audience is different from my own project, I have decided to evaluate this platform because of it's large cultural reach and it's success in tapping into new trends among consumers such as the growing preference for sustainable fashion over fast fashion. My overall evaluation is that Depop is well designed with a modern and user friendly interface.<br>
 <img src="https://lisabi-ux.github.io/DH-150/depop1.PNG" style="width: 20%;">
+<img src="https://lisabi-ux.github.io/DH-150/depop2.PNG" style="width: 20%;">
 <img src="https://lisabi-ux.github.io/DH-150/depop3.PNG" style="width: 20%;">
-<img src="https://lisabi-ux.github.io/DH-150/depop5.PNG" style="width: 20%;">
+<img src="https://lisabi-ux.github.io/DH-150/depop4.PNG" style="width: 20%;">
+<img src="https://lisabi-ux.github.io/DH-150/depop5.jpg" style="width: 20%;">
 <br>
 
 ## OfferUp:<br>
