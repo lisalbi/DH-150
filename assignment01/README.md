@@ -8,16 +8,16 @@ For my project, I will be designing an online resale marketplace with an emphasi
 ## Depop:<br>
 https://www.depop.com/<br>
 Depop is a peer-to-peer resale marketplace which incorporates aspects of social media. It carries strong inspiration from instagram. The simple but unique interface makes it very easy to shop for items, as well as list your own items. The site is very popular among Gen Z and Millenial women. Although the target audience is different from my own project, I have decided to evaluate this platform because of it's large cultural reach and it's success in tapping into new trends among consumers such as the growing preference for sustainable fashion over fast fashion. My overall evaluation is that Depop is well designed with a modern and user friendly interface.<br>
-<img src="https://lisabi-ux.github.io/DH-150/depop1.PNG" style="width: 35%;">
-<img src="https://lisabi-ux.github.io/DH-150/depop3.PNG" style="width: 35%;">
-<img src="https://lisabi-ux.github.io/DH-150/depop5.PNG" style="width: 35%;">
+<img src="https://lisabi-ux.github.io/DH-150/depop1.PNG" style="width: 20%;">
+<img src="https://lisabi-ux.github.io/DH-150/depop3.PNG" style="width: 20%;">
+<img src="https://lisabi-ux.github.io/DH-150/depop5.PNG" style="width: 20%;">
 <br>
 
 ## OfferUp:<br>
 https://offerup.com/<br>
 OfferUp is an online market place with an emphasis on in-person transactions. It is comparable to Craigslist and Facebook Marketplace, but it differentiates itself by being mobile-friendly with a user rating system. On each item, customers have the option to ask the seller about the item and/or make an offer for the item. Sellers have the option of offering pickup, shipping, or both. It differentiates itself from other app-based marketplaces by its focus on in-person transactions, whereas most other marketplaces (Ebay, Poshmark, Mercari, etc.) only offer shipping. My overall evaluation is that while the app is definitely usable, there are certain usability issues that make the app feel unfinished and outdated. <br>
-<img src="https://lisabi-ux.github.io/DH-150/offerup1.PNG" style="width: 35%;">
-<img src="https://lisabi-ux.github.io/DH-150/offerup2.PNG" style="width: 35%;">
+<img src="https://lisabi-ux.github.io/DH-150/offerup1.PNG" style="width: 20%;">
+<img src="https://lisabi-ux.github.io/DH-150/offerup2.PNG" style="width: 20%;">
 <br>
 
 ### Visibility of System Status:
