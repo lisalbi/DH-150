@@ -25,7 +25,7 @@ Viewing Reviews
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire5.png" width="60%" class="center"> <br>
 
 Viewing Favorites
-<img src="https://lisabi-ux.github.io/DH-150/hifiwire6.png" width="60%'\" class="center"> <br>
+<img src="https://lisabi-ux.github.io/DH-150/hifiwire6.png" width="60%" class="center"> <br>
 
 
 ## Interactive Prototype
