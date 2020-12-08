@@ -13,7 +13,7 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 
 ### Persona 1: Erin McCook, College Student
 
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinpersona.png)
+![header image](https://lisabi-ux.github.io/DH-150/erinpersona.png)
 
 ![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/erinmap.png)
 
