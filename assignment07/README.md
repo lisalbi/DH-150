@@ -19,7 +19,7 @@ Accepting Offers
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire3.png" width=80% class="center"/> <br>
 
 Listing an Item
-<img src="https://lisabi-ux.github.io/DH-150/hifiwire4.png" width=80% class="center"/> <br>
+<img src="https://lisabi-ux.github.io/DH-150/listing.png" width=80% class="center"/> <br>
 
 Viewing Reviews
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire5.png" width=80% class="center"/> <br>
@@ -29,6 +29,7 @@ Viewing Favorites
 
 
 ## Interactive Prototype
+<img src="https://lisabi-ux.github.io/DH-150/allflows.png" width=50% class="center"/> <br>
 
 The prototype can be viewed [here](https://xd.adobe.com/view/fe671d1e-871f-4a37-ba05-65c8395acb69-ab34/).
 
