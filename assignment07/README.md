@@ -12,23 +12,24 @@ Tradepost is a second hand furniture resale market that aims to provide a quick 
 Sign In or Log In<br>
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire1.png" width="60%" class="center"> <br>
 
-Searching & Filtering
+Searching & Filtering<br>
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire2.png" width="60%" class="center"> <br>
 
-Accepting Offers
+Accepting Offers<br>
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire3.png" width="60%" class="center"> <br>
 
-Listing an Item
+Listing an Item<br>
 <img src="https://lisabi-ux.github.io/DH-150/listing.png" width="60%" class="center"> <br>
 
-Viewing Reviews
+Viewing Reviews<br>
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire5.png" width="60%" class="center"> <br>
 
-Viewing Favorites
+Viewing Favorites<br>
 <img src="https://lisabi-ux.github.io/DH-150/hifiwire6.png" width="60%" class="center"> <br>
 
 
 ## Interactive Prototype
+<br>
 <img src="https://lisabi-ux.github.io/DH-150/allflows.png" width="50%" class="center"> <br>
 
 The prototype can be viewed [here](https://xd.adobe.com/view/fe671d1e-871f-4a37-ba05-65c8395acb69-ab34/).
