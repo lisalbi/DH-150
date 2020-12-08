@@ -19,6 +19,7 @@ The purpose of UX Storytelling is to help designers understand and empathize wit
 
 ### Persona 2: June Chen, Working Mother
 <img src="https://lisabi-ux.github.io/DH-150/junepersona.png" width="50%" class="center"><br>
+
 <img src="https://lisabi-ux.github.io/DH-150/junemap.png" width="50%" class="center"><br>
 
 ## User Scenarios and Journey Maps
