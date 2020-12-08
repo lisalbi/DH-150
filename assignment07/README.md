@@ -10,22 +10,22 @@ Tradepost is a second hand furniture resale market that aims to provide a quick 
 ## Wireflow
 
 Sign In or Log In
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire1.png)
+<img src="https://lisabi-ux.github.io/DH-150/hifiwire1.png" width=80% class="center"/> <br>
 
 Searching & Filtering
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire2.png)
+<img src="https://lisabi-ux.github.io/DH-150/hifiwire2.png" width=80% class="center"/> <br>
 
 Accepting Offers
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire3.png)
+<img src="https://lisabi-ux.github.io/DH-150/hifiwire3.png" width=80% class="center"/> <br>
 
 Listing an Item
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire4.png)
+<img src="https://lisabi-ux.github.io/DH-150/hifiwire4.png" width=80% class="center"/> <br>
 
 Viewing Reviews
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire5.png)
+<img src="https://lisabi-ux.github.io/DH-150/hifiwire5.png" width=80% class="center"/> <br>
 
 Viewing Favorites
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/hifiwire6.png)
+<img src="https://lisabi-ux.github.io/DH-150/hifiwire6.png" width=80% class="center"/> <br>
 
 
 ## Interactive Prototype
@@ -52,14 +52,14 @@ Headings, tabs, and titles of listings are dark gray (#414141). This color is da
 Other colors were used in limited ways. A dark teal (#026F83) was used to indicate the condition of products. This helps differentiate it from the rest of the listing, and attracts the user's attention. At first, I had used a lighter teal (#0C96D3), but this color did not provide enough contrast with the background, since it was too light. A dark green color (#317B11) was used in the messages tab to indicate messages from potential buyers. A cobalt blue color (#1552D9) was used to indicate messages from sellers.
 
 All colors passed the color contrast test:
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/contrasttest.png)
+<img src="https://lisabi-ux.github.io/DH-150/contrasttest.png" width=80% class="center"/> <br>
 
 ### Font 
 
 Since I chose a relatively limited color palette, I primarily used font weights to differentiate important headings, signifiers, and buttons. The primary font I used was Monserrat. I picked this font because it is modern and stylish, while still being easily readable and user friendly. For important titles, headings, and buttons, I used Monserrat Bold or Monserrat Semibold. For the text of listing descriptions, profile descriptions, and the body of messages, I used Helvetica Neue. This font is suitable for large bodies of text because it is very readable and very familiar to users, due to it's broad use among apps and websites. 
 
 Examples of text from the interface are shown below:
-![header image](https://github.com/lisabi-ux/Heuristic-Evaluation/blob/main/fontsamples.png)
+<img src="https://lisabi-ux.github.io/DH-150/fontsamples.png" width=80% class="center"/> <br>
 
 ## Impression Test
 A video of the impression test can be found [here](https://youtu.be/ahjpU1JBLEw).
